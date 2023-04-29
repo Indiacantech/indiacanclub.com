@@ -1,4 +1,4 @@
-🚀 IndiaCan Club built on top these tech
+🚀 IndiaCan Club built on top these tech [![Netlify Status](https://api.netlify.com/api/v1/badges/df72e74d-2153-405a-b2c4-567833950b49/deploy-status)](https://app.netlify.com/sites/delightful-axolotl-53a786/deploys)
 ### Features
 
 Developer experience first:
@@ -33,8 +33,6 @@ Built-in feature from Next.js:
 - ☕ Minify HTML & CSS
 - 💨 Live reload
 - ✅ Cache busting
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df72e74d-2153-405a-b2c4-567833950b49/deploy-status)](https://app.netlify.com/sites/delightful-axolotl-53a786/deploys)
 
 ### Philosophy
 
